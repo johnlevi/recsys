@@ -13,7 +13,14 @@
 -  链接：https://arxiv.org/abs/1711.06632 ； https://infoq.cn/article/alibaba-AAAI-2018-ATRank
          
 **4. 联合学习**
+- 《Convolutional Matrix Factorization for Document Context-Aware Recommendation》  
+-  简介：G:135引用
+   ![](https://github.com/johnlevi/recsys/blob/master/cnn_pmf1.png) ![](https://github.com/johnlevi/recsys/blob/master/cnn_pmf2.png)
+-  时间：2016 RecSys   
+-  git: https://github.com/cartopy/ConvMF  keras
+
 - 《Ask the GRU: Multi-task Learning forDeep Text Recommendations》
 -  简介：![](https://github.com/johnlevi/recsys/blob/master/gru_cf.png)
 -  时间：2016 RecSys '16 Proceedings of the 10th ACM Conference on Recommender Systems
 -  链接：https://dl.acm.org/citation.cfm?id=2959180
+
