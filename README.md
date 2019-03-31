@@ -11,6 +11,7 @@
 -  简介：attention表征用户行为序列，预估下一个行为
 -  时间：2018
 -  链接：https://arxiv.org/pdf/1706.06978.pdf
+
 **《ATRank: An Attention-Based User Behavior Modeling Framework for Recommendation》**
 -  简介：异构行为数据 + attention
 -  时间：2017.12  
@@ -22,6 +23,7 @@
    ![](https://github.com/johnlevi/recsys/blob/master/cnn_pmf1.png) ![](https://github.com/johnlevi/recsys/blob/master/cnn_pmf2.png)
 -  时间：2016 RecSys   
 -  git: https://github.com/cartopy/ConvMF  keras
+
 **《Ask the GRU: Multi-task Learning forDeep Text Recommendations》**
 -  简介：![](https://github.com/johnlevi/recsys/blob/master/gru_cf.png)
 -  时间：2016 RecSys '16 Proceedings of the 10th ACM Conference on Recommender Systems
